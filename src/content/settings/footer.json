@@ -2,28 +2,13 @@
   "socials": [
     {
       "target": "_blank",
-      "name": "Facebook",
-      "link": "/"
-    },
-    {
-      "target": "_blank",
-      "name": "&#120143;",
-      "link": "/"
-    },
-    {
-      "target": "_blank",
       "name": "Instagram",
-      "link": "/"
+      "link": "https://www.instagram.com/martt___tt/"
     },
     {
       "target": "_blank",
       "name": "Behance",
-      "link": "/"
-    },
-    {
-      "target": "_blank",
-      "name": "YouTube",
-      "link": "/"
+      "link": "https://www.behance.net/maronmars"
     }
   ]
 }

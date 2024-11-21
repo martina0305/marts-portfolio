@@ -1,9 +1,9 @@
 {
-  "title": "Minimma",
-  "description": "Minimal portfolio template",
+  "title": "fotografía de interiores",
+  "description": "mart's portfolio",
   "base_url": "/",
   "keywords": ["astro", "template"],
-  "logo": "assets/m.png",
-  "favicon": "assets/m_w.png",
+  "logo": "assets/logo-mart.svg",
+  "favicon": "assets/martlogo.png",
   "url": "/"
 }

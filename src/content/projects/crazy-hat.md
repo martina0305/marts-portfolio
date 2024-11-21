@@ -1,9 +1,10 @@
 ---
 tag:
-  - Photography
-title: Crazy hat
-image: assets/gdsprslyvgipdn2nidnj-1-7x4zz.jpg
+  - Fotografía
+title: Valentín Virasoro
+image: assets/IMG_4678-HDR.jpg
 date: 2023-10-02
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur. Donec id elit non mi porta gravida at eget metus.
+Buenos Aires, Villa Crespo. Para Estudio Molde.
+Octubre 24'
