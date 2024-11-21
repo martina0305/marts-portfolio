@@ -9,6 +9,9 @@
     "preview": "astro preview",
     "astro": "astro"
   },
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "@astrojs/react": "^3.0.2",
     "@astrojs/sitemap": "^3.0.0",
